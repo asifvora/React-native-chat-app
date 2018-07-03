@@ -18,6 +18,7 @@ import openSocket from 'socket.io-client';
 const SERVER = `http://localhost:8000/`;
 const NAME = '@asif';
 const AVATAR = 'https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_400x400.jpg';
+const AVATAR1 = 'https://i1.wp.com/tricksmaze.com/wp-content/uploads/2017/10/Stylish-Girls-Profile-Pictures-11.jpg';
 
 class App extends Component {
 
