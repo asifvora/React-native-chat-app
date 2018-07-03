@@ -6,7 +6,7 @@ React native simple chat app using socket.io.
 
 | Chat Screen |
 | ------------------ |
-| <img src="./screenshot/SingUp.png" height="400" alt="Screenshot"/> |
+| <img src="./App/img/Screen.png" height="400" alt="Screenshot"/> |
 
 
 
