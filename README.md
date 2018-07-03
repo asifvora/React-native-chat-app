@@ -4,24 +4,24 @@ React native simple chat app using socket.io.
 
 # Screenshot
 
-| Chat Screen | |
+| Chat Screen |
 | ------------------ |
 | <img src="./screenshot/SingUp.png" height="400" alt="Screenshot"/> |
 
-## Getting Started
 
-For help getting started with React-native, view online
-[documentation](https://facebook.github.io/react-native/).
 
-#### 1. [Setup React-native](https://facebook.github.io/react-native/docs/getting-started.html)
+## Getting Started with server
+
+For help getting started with Socket.io, view online
+[documentation](https://socket.io/).
+
+#### 1. [Setup Socket.io](https://socket.io/get-started/chat/)
 
 #### 2. Clone the repository
 
 ```sh
 $ https://github.com/asifvora/React-native-chat-app.git
-$ cd React-native-chat-app
 ```
-
 #### 3. Install dependency of server
 
 ```sh
@@ -36,7 +36,20 @@ $ npm install
 $ node app.js
 ```
 
-#### 5. Install dependency of app
+## Getting Started with app
+
+For help getting started with React-native, view online
+[documentation](https://facebook.github.io/react-native/).
+
+#### 1. [Setup React-native](https://facebook.github.io/react-native/docs/getting-started.html)
+
+#### 2. Clone the repository
+
+```sh
+$ https://github.com/asifvora/React-native-chat-app.git
+```
+
+#### 3. Install dependency of app
 
 ```sh
 $ cd React-native-chat-app
@@ -44,7 +57,7 @@ $ cd App
 $ npm install
 ```
 
-#### 6. Run the app
+#### 4. Run the app
 
 ```sh
 $ react-native run-android
